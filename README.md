@@ -1,0 +1,2 @@
+# Automating-E-Government-Services-with-Artificial-Intelligence
+to automate government services with Artificial Intelligence technology such as Deep Learning algorithm called Convolution Neural Networks (CNN). Government can introduce new schemes on internet and peoples can read news and notifications of such schemes and then peoples can write opinion about such schemes and this opinions can help government.
